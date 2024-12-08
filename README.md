@@ -16,7 +16,7 @@
 ### 🚀 About Me:
 <div align="center">
   <p>Just a chill guy 😎</p>
-  <img src="https://media.giphy.com/media/l0MYQq6Mqz2psnYka/giphy.gif" width="400" alt="chill-guy-gif" />
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrcGt0NHpmbmd1NWF5M3F4dzd6c2FvaHJrMTF3MWJyeXE3d2ZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.webp" width="400" alt="chill-guy-gif" />
 </div>
 ---
 
