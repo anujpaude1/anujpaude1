@@ -8,16 +8,18 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
-  <img src="https://media.giphy.com/media/3o7TKP9lnvQxM4Wf6U/giphy.gif" width="400" alt="video-editing-gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5uYWJqODN3ZWxhbmNkZjh5emgxM2xyOHQwdWtzMnd5dnU2cDE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.webp" width="400" alt="video-editing-gif" />
 </div>
 
 ---
 
 ### 🚀 About Me:
 <div align="center">
-  <p>Just a chill guy 😎</p>
+  <p><b>Just a chill guy 😎 </b></p>
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExajFrcGt0NHpmbmd1NWF5M3F4dzd6c2FvaHJrMTF3MWJyeXE3d2ZtbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qJzZ4APiDZQuJDY7vh/giphy.webp" width="400" alt="chill-guy-gif" />
 </div>
+
+
 ---
 
 ### 🌐 Connect with Me:
