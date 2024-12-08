@@ -8,14 +8,16 @@
 
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding-gif" />
+  <img src="https://media.giphy.com/media/3o7TKP9lnvQxM4Wf6U/giphy.gif" width="400" alt="video-editing-gif" />
 </div>
 
 ---
 
 ### 🚀 About Me:
-HEHEHEHEHEHEHE
-
-
+<div align="center">
+  <p>Just a chill guy 😎</p>
+  <img src="https://media.giphy.com/media/l0MYQq6Mqz2psnYka/giphy.gif" width="400" alt="chill-guy-gif" />
+</div>
 ---
 
 ### 🌐 Connect with Me:
@@ -29,7 +31,7 @@ HEHEHEHEHEHEHE
 
 ### 🛠️ Tech Stack:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,django,flask,fastapi,js,nodejs,react,nextjs,vue,svelte,tailwind,express,mysql,selenium,figma,photoshop,illustrator,canva,ae,premiere" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=c,python,django,flask,fastapi,js,typescript,nodejs,react,nextjs,vue,svelte,angular,tailwind,bootstrap,express,mysql,mongodb,postgres,redis,graphql,selenium,prisma,figma,photoshop,illustrator,canva,ae,premiere,blender,unity" alt="Tech Stack" />
 </p>
 
 ---
