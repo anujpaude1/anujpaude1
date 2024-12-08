@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me:
-- 🎓 **Computer Engineering Student** 
+HEHEHEHEHEHEHE
 
 
 ---
