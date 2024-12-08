@@ -7,8 +7,8 @@
 </p>
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxseG4xbmI1bDltOHpneGlwc2pzaTd3cGlubWZyM2xqOXFqMHJ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" height="400" alt="coding-gif" />
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5uYWJqODN3ZWxhbmNkZjh5emgxM2xyOHQwdWtzMnd5dnU2cDE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.webp" height="400" alt="video-editing-gif" />
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxseG4xbmI1bDltOHpneGlwc2pzaTd3cGlubWZyM2xqOXFqMHJ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" height="200" alt="coding-gif" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExam5uYWJqODN3ZWxhbmNkZjh5emgxM2xyOHQwdWtzMnd5dnU2cDE0ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Lopx9eUi34rbq/giphy.webp" height="200" alt="video-editing-gif" />
 </div>
 
 ---
