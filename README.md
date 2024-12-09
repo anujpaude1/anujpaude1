@@ -7,7 +7,7 @@
 </p>
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anuj-paude1/count.svg" />
+  <img src="https://profile-counter.glitch.me/anujpaude1/count.svg" />
 </p>
 
 <div align="center">
