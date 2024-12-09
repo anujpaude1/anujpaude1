@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=anujpaude1&label=Profile%20views&color=0e75b6&style=flat" alt="anujpaude1" /> 
   <img src="https://img.shields.io/github/followers/anujpaude1?style=social" alt="GitHub Followers">
 </p>
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/anujpaude1/count.svg" />
-</p>
 
 <div align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGxseG4xbmI1bDltOHpneGlwc2pzaTd3cGlubWZyM2xqOXFqMHJ5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.webp" height="200" alt="coding-gif" />
